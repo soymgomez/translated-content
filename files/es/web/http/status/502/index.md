@@ -33,4 +33,3 @@ El código de respuesta de error del servidor de HTTP **`502 Bad Gateway`** indi
 ## Vea también
 
 - {{HTTPStatus(504)}}
-- [502 Bad Gateway](https://www.lucushost.com/blog/502-bad-gateway-solucionar-error-502-wordpress/)
