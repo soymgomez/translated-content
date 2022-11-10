@@ -174,4 +174,3 @@ Los códigos de estado se definen en la sección 10 de[RFC 2616](https://tools.i
 
 - [Anexo:Códigos de estado HTTP](https://es.wikipedia.org/wiki/Anexo:C%C3%B3digos_de_estado_HTTP)
 - [IANA official registry of HTTP status codes](http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
-- [Códigos HTTP: Una guía con los códigos de estado más comunes](https://www.lucushost.com/blog/codigos-http-mas-comunes/)
